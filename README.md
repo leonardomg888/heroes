@@ -1,5 +1,0 @@
-#integrantes#
-#leonardo
-#antonella
-#daniel
-
