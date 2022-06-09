@@ -1,5 +1,5 @@
 # integrantes#
 ## leonardo, edad: 35 , ciudad: san miguel 
-# antonella
+# antonella edad: 19 , ciudad: San Miguel
 # daniel
 
