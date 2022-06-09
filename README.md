@@ -2,4 +2,6 @@
 ## leonardo, edad: 35 , ciudad: san miguel 
 # antonella edad: 19 , ciudad: San Miguel
 # daniel
+# Laura, edad: 48, Ciudad: Villa La Angostura
+
 
